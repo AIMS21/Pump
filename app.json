@@ -1,4 +1,10 @@
 {
   "name": "pump",
-  "displayName": "pump"
+  "displayName": "pump",
+  "android": {
+    "package": "com.aims.pump"
+  },
+  "ios": {
+    "bundleIdentifier": "com.aims.pump"
+  }
 }
