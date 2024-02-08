@@ -1,10 +1,14 @@
 {
   "name": "pump",
   "displayName": "pump",
+  "scheme": "your-app-scheme",
   "android": {
     "package": "com.aims.pump"
   },
   "ios": {
     "bundleIdentifier": "com.aims.pump"
-  }
+  },
+  "plugins": [
+    "expo-router"
+  ]
 }
